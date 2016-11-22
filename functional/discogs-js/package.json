@@ -1,0 +1,17 @@
+{
+  "name": "discogs-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.22.1",
+    "stream-to-string": "^1.1.0",
+    "through2": "^2.0.1",
+    "xml2obj": "^0.1.0"
+  }
+}
