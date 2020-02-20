@@ -1,0 +1,8 @@
+.knob{
+background-image: url(./knob.svg);
+width: 60px;
+height: 60px;
+background-color: transparent;
+border: 0px;
+}
+
